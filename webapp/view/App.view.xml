@@ -1,0 +1,9 @@
+<mvc:View controllerName="northwindtesttypescript.controller.App"
+    xmlns:mvc="sap.ui.core.mvc"
+    xmlns="sap.m">
+    <Page id="page" title="Hi">
+    <content>
+    <Button text="Hi"></Button>
+    </content>
+    </Page>
+</mvc:View>
